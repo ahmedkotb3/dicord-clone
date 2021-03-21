@@ -1,4 +1,4 @@
-# You can see live version o that link
+# You can see live version on that link
 
 https://discord-clone-3746e.web.app/
 
