@@ -1,3 +1,7 @@
+# You can see live version o that link
+
+https://discord-clone-3746e.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
